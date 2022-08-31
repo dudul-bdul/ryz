@@ -11,7 +11,7 @@
   <meta name="author" content={siteConfig.author.name} />
 
   <link rel="apple-touch-icon" href={siteConfig.author.avatar_192_png} sizes="192x192" type="image/png" />
-  <link rel="shortcut icon" href="/favicon.png" type="image/png" />
+  <link rel="shortcut icon" href="https://ryzahra-makeup.web.app/assets/assets/images/logo.png" type="image/png" />
 
   <meta name="generator" content={Base64.atob('Z2g6a3djaGFuZzA4MzEvc3ZlbHRlLVFXRVI=').toString()} />
   <link rel="manifest" crossorigin="use-credentials" href="/manifest.webmanifest" />
