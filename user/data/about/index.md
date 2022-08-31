@@ -1,9 +1,9 @@
 ---
-title: About QWER
-description: Information about 🚀 QWER - Simply Awesome Blog Starter. Built using Svelte with ❤
+title: About Ryzahra Wedding
+description: Information about MakeUp Artist & Wedding Organizer
 published: 2022-08-20 GMT+08:00
 updated: 2022-08-27 GMT+08:00
-cover: /qwer.webp
+cover: https://ryzahra-makeup.web.app/assets/assets/images/logo.png
 options:
   - unlisted
 ---
@@ -14,15 +14,13 @@ options:
 
 It took me about a month or two of my leisure time to develope [QWER](https://github.com/kwchang0831/svelte-QWER). It is also my first [Svelte](https://svelte.dev/) + [SvelteKit](https://kit.svelte.dev/) project. I just learned Svelte while developing it.
 
-<ImgZ src="/preview.png" alt="QWER Preview" />
-
-<ImgZ src="/mobile-preview.png" alt="QWER Mobile Preview" />
+<ImgZ src="https://ryzahra-makeup.web.app/assets/assets/images/logo.png" alt="Ryzahra Makeup" />
 
 ## ✨ Features
 
-- Writing post with [Markdown syntax](https://www.markdownguide.org/basic-syntax/).
+- Writing post with Syntax.
 
-- Support embedding Svelte components and Javascript with Markdown.
+- Support embedding components and Javascript with Markdown.
 
 - Folder-based organization of blogging.
 
@@ -32,16 +30,16 @@ It took me about a month or two of my leisure time to develope [QWER](https://gi
 
 - Built-in images pre-process. Auto-generate different resolutions / format images to accommodate Mobile / Tablet / PC audiences for balance of speed and visual quality.
 
-- Support [Giscus](https://github.com/giscus/giscus) - a comments system powerd by Github Discussions.
+- Support comments system powerd and Discussions.
 
-- Utilize [UnoCSS](https://github.com/unocss/unocss) - the instant on-demand atomic CSS engine.
+- Utilitiez - the instant on-demand atomic engine.
 
 ## 🚧 Current State
 
-[QWER](https://github.com/kwchang0831/svelte-QWER) is currently at pre-alpha stage. I used just-make-it-to-work approach, so many of the code are NOT optimized at all, and ugly.
+Ryzahra is currently at pre-alpha stage. I used just-make-it-to-work approach, so many of the code are NOT optimized at all, and ugly.
 
-If you have encountered any issues, please do let me know using [Github's Q&A Discussion board](https://github.com/kwchang0831/svelte-QWER/discussions/categories/q-a).
+If you have encountered any issues, please do let me know using Contact
 
 ## 👍 END
 
-Thanks so much for interesting in [QWER](https://github.com/kwchang0831/svelte-QWER). Please try it out and let me know what you think 😊.
+Thanks so much for interesting in Ryzahra Wedding. Please try it out and let me know what you think 😊.
