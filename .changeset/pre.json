@@ -5,5 +5,8 @@
     "@kwchang0831/svelte-qwer": "0.0.1",
     "@kwchang0831/qwer": "0.0.1"
   },
-  "changesets": []
+  "changesets": [
+    "lovely-eels-travel",
+    "three-pugs-clap"
+  ]
 }
