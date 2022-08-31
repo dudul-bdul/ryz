@@ -10,7 +10,7 @@ import Avatar_128 from '$assets/images/logo.png?w=128&h=128&format=avif;wepb';
 import Avatar_48_PNG from '$assets/logo.png?w=48&h=48';
 import Avatar_96_PNG from '$assets/assets/logo.png?w=96&h=96';
 import Avatar_192_PNG from '$assets/logo.png?w=192&h=192';
-import Avatar_512_PNG from '$sets/logo.png?w=512&h=512';
+import Avatar_512_PNG from '$assets/logo.png?w=512&h=512';
 
 import DefaultOGCard_512_512 from '$assets/default_og_card.jpg?w=512&h=512&format=webp';
 
