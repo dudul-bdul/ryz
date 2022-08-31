@@ -15,14 +15,14 @@ import Avatar_512_PNG from '$assets/avatar.png?w=512&h=512';
 import DefaultOGCard_512_512 from '$assets/default_og_card.jpg?w=512&h=512&format=webp';
 
 export const siteConfig: Site.Config = {
-  url: 'https://svelte-qwer.vercel.app',
-  title: 'QWER',
-  subtitle: '🚀 QWER - Built using Svelte with ❤',
-  description: '🚀 QWER - Awesome Blog Starter, Built using Svelte with ❤',
+  url: 'https://ryzahrawedding.com',
+  title: 'RYZAHRA WEDDING',
+  subtitle: 'Ryzahra Wedding and EvcentOrvanizer',
+  description: 'MakeUp Artist, Wedding Organizer, Event Organizer, Decoration, Catering, Documentation, Entertaintmemt, Sound System',
   lang: 'en',
   since: 2022,
   author: {
-    name: 'John Doe',
+    name: 'Ryzahra',
     status: '❤️',
     avatar: Avatar,
     avatar_128: Avatar_128,
@@ -30,17 +30,17 @@ export const siteConfig: Site.Config = {
     avatar_96_png: Avatar_96_PNG,
     avatar_192_png: Avatar_192_PNG,
     avatar_512_png: Avatar_512_PNG,
-    website: 'https://github.com/kwchang0831/svelte-QWER',
-    github: 'https://github.com/kwchang0831',
-    email: 'contact@kwchang0831.dev',
-    bio: `lorem ipsum! <br/> dolor sit amet!`,
+    website: 'https://ryzahrawedding.com',
+    github: 'https://github.com/dudul-bdul',
+    email: 'ryzahramakeup@gmail.com',
+    bio: `Makeup Artist <br/> and Wedding Organizer`,
   },
   og_card: DefaultOGCard_512_512,
 };
 
 export const headConfig: Site.Head = {
   // Used for IndieWeb
-  me: ['https://github.com/kwchang0831'],
+  me: ['https://github.com/dudul-bdul'],
   custom: ({ dev }) =>
     dev
       ? [
@@ -81,7 +81,7 @@ export const giscusConfig: Giscus.Config = {
   // src: 'https://giscus.kwchang0831.dev/client.js',
   enable: true,
   id: 'giscus-comment',
-  repo: 'kwchang0831/svelte-QWER',
+  repo: 'dudul-bdul/ryz',
   repoId: 'R_kgDOHiLP-g',
   category: 'Comments',
   categoryId: 'DIC_kwDOHiLP-s4CQgDm',
@@ -95,7 +95,7 @@ export const giscusConfig: Giscus.Config = {
 
 export const navConfig: (DD.Nav | DD.Link)[] = [
   {
-    name: 'QWER',
+    name: 'Artikel',
     orientation: 2,
     links: [
       {
@@ -109,7 +109,7 @@ export const navConfig: (DD.Nav | DD.Link)[] = [
         prefetch: true,
       },
       {
-        name: 'Intro to QWER',
+        name: 'Intro to Ryzahra',
         url: '/intro-to-QWER',
         prefetch: true,
       },
@@ -120,8 +120,8 @@ export const navConfig: (DD.Nav | DD.Link)[] = [
     url: '/about',
   },
   {
-    name: 'Get QWER 🚀',
-    url: 'https://github.com/kwchang0831/svelte-QWER',
+    name: 'Get Whatsapp🚀',
+    url: 'https://wa.me/6289654229928',
     target: '_blank',
     rel: 'noreferrer noopener',
   },
@@ -131,7 +131,7 @@ export const mobilenavConfig: DD.Nav = {
   orientation: 2,
   links: [
     {
-      name: 'QWER',
+      name: 'Artikel',
       orientation: 1,
       links: [
         {
@@ -145,7 +145,7 @@ export const mobilenavConfig: DD.Nav = {
           prefetch: true,
         },
         {
-          name: 'Intro to QWER',
+          name: 'Intro to Ryzahra',
           url: '/intro-to-QWER',
           prefetch: true,
         },
@@ -156,8 +156,8 @@ export const mobilenavConfig: DD.Nav = {
       url: '/about',
     },
     {
-      name: 'Get QWER 🚀',
-      url: 'https://github.com/kwchang0831/svelte-QWER',
+      name: 'Get Whatsapp 🚀',
+      url: 'https://wa.me/6289654229928',
       target: '_blank',
       rel: 'noreferrer noopener',
     },
