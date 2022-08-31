@@ -3,7 +3,7 @@ title: About Ryzahra Wedding
 description: Information about MakeUp Artist & Wedding Organizer
 published: 2022-08-20 GMT+08:00
 updated: 2022-08-27 GMT+08:00
-cover: https://ryzahra-makeup.web.app/assets/assets/images/logo.png
+cover: qwer.webp
 options:
   - unlisted
 ---
