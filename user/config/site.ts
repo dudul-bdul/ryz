@@ -101,12 +101,12 @@ export const navConfig: (DD.Nav | DD.Link)[] = [
       {
         name: 'Hello World',
         url: '/hello-world',
-        prefetch: true,
+        prefetch: false,
       },
       {
         name: 'Example Post',
         url: '/example',
-        prefetch: true,
+        prefetch: false,
       },
       {
         name: 'Intro to Ryzahra',
@@ -137,12 +137,12 @@ export const mobilenavConfig: DD.Nav = {
         {
           name: 'Hello World',
           url: '/hello-world',
-          prefetch: true,
+          prefetch: false,
         },
         {
           name: 'Example Post',
           url: '/example',
-          prefetch: true,
+          prefetch: false,
         },
         {
           name: 'Intro to Ryzahra',

@@ -8,8 +8,11 @@ cover: ./cover.jpg
 coverCaption: Photo by <a href="https://unsplash.com/@etiennegirardet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Etienne Girardet</a> on <a href="https://unsplash.com/s/photos/motivation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 tags:
   - [Markdown]
----
+Options:
+ -unlisted
 
+
+---
 <script lang="ts">
   import Youtube from '$lib/components/youtube.svelte'
   import Custom from '$custom/custom.svelte'
